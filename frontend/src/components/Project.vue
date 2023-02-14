@@ -11,7 +11,7 @@
                         <div class="card-body text-light">
                             <h5 class="card-title">N77 Universal Website</h5>
                             <hr>
-                            <p class="card-text">Tailwind Based SPA with API JSON Project Using React and Vite. This Website Created For For Geek ,join artwork, and stories</p>
+                            <p class="card-text">Tailwind Based SPA with API JSON Project Using React and Vite. This Website Created For repairer team,join artwork, and stories writer</p>
                             <a href="#" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
