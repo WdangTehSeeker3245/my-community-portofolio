@@ -1,0 +1,6 @@
+Flask
+flask-sqlalchemy
+flask-restful
+flask-cors
+flask-mail
+sendgrid

@@ -44,7 +44,7 @@
                         <div class="card-body text-light">
                             <h5 class="card-title">Webnote</h5>
                             <hr>
-                            <p class="card-text">Website note taking app for saving draft of my story on localhost, Build Using Flask or PHP pure. now working on api to syncronize with local app.</p>
+                            <p class="card-text">Website note taking app for saving draft my story on localhost, Build Using Flask or PHP pure. now working on api to syncronize with local app.</p>
                             <a href="https://github.com/WdangTehSeeker3245/flasknote-api" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
