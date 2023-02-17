@@ -11,8 +11,8 @@
                         <div class="card-body text-light">
                             <h5 class="card-title">N77 Universal Website</h5>
                             <hr>
-                            <p class="card-text">Tailwind Based SPA with API JSON Project Using React and Vite. This Website Created For repairer team,join artwork, and stories writer</p>
-                            <a href="#" class="btn btn-primary">Visit Project</a>
+                            <p class="card-text">Tailwind based SPA with API JSON Project Using React and Vite. This website created For repairer team,join artwork, and stories writer.</p>
+                            <a href="https://github.com/WdangTehSeeker3245/n77-universal-website-frontend" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
                 </div>
@@ -22,8 +22,8 @@
                         <div class="card-body text-light">
                             <h5 class="card-title">Izaus Linux</h5>
                             <hr>
-                            <p class="card-text">Linux Theming and App Project Focused Around Ubuntu and ArchLinux User</p>
-                            <a href="#" class="btn btn-primary">Visit Project</a>
+                            <p class="card-text">Linux theming and app project focused around ubuntu and archlinux user.</p>
+                            <a href="https://bitbucket.org/faizalnurulfirdaus_code/izaus-linux-dev/src/master/" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
                         <div class="card-body text-light">
                             <h5 class="card-title">My Lapak App</h5>
                             <hr>
-                            <p class="card-text">Static Site Website Connected With Admin Dashboard API that is basically collection of stuff i want to pawned</p>
+                            <p class="card-text">Static site website connected with admin dashboard API that all of it basically collection of stuff i want to pawned.</p>
                             <a href="#" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
@@ -44,8 +44,8 @@
                         <div class="card-body text-light">
                             <h5 class="card-title">Webnote</h5>
                             <hr>
-                            <p class="card-text">Website Note Taking App For Saving Draft of My Story On Localhost, Build Using Flask or PHP pure. now working on api to syncronize with local app</p>
-                            <a href="#" class="btn btn-primary">Visit Project</a>
+                            <p class="card-text">Website note taking app for saving draft of my story on localhost, Build Using Flask or PHP pure. now working on api to syncronize with local app.</p>
+                            <a href="https://github.com/WdangTehSeeker3245/flasknote-api" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
                 </div>
