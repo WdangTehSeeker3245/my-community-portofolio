@@ -21,12 +21,12 @@ export default {
                 <img class="photo-profile" src="../assets/faizal_ozeroki_virus.jpg" alt="">
                 <h4 class="mt-5 fw-bold description">"Hi Im Programmer Who do Code As Hobby for Long Life Learner"</h4>
                 <br>
-                <a class="mx-2 shadow" href="https://github.com/WdangTehSeeker3245"><i class="fa-brands fa-github fa-xl"></i></a>
-                <a class="mx-2 shadow" href="mailto:faizaln77izaus@gmail.com"><i class="fa-solid fa-envelope fa-xl"></i></a>
-                <a class="mx-2 shadow" href="https://www.instagram.com/faizalnf8037"><i class="fa-brands fa-instagram fa-xl"></i></a>
-                <a class="mx-2 shadow" href="https://www.youtube.com/@faizalnurulfirdaus7847"><i class="fa-brands fa-youtube fa-xl"></i></a>
-                <a class="mx-2 shadow" href="https://www.facebook.com/profile.php?id=100088498143378"><i class="fa-brands fa-facebook fa-xl"></i></a>
-                <a class="mx-2 shadow" href="https://twitter.com/AsankaLigar1800"><i class="fa-brands fa-twitter fa-xl"></i></a>
+                <a class="mx-2" href="https://github.com/WdangTehSeeker3245"><i class="fa-brands fa-github fa-xl"></i></a>
+                <a class="mx-2" href="mailto:faizaln77izaus@gmail.com"><i class="fa-solid fa-envelope fa-xl"></i></a>
+                <a class="mx-2" href="https://www.instagram.com/faizalnf8037"><i class="fa-brands fa-instagram fa-xl"></i></a>
+                <a class="mx-2" href="https://www.youtube.com/@faizalnurulfirdaus7847"><i class="fa-brands fa-youtube fa-xl"></i></a>
+                <a class="mx-2" href="https://www.facebook.com/profile.php?id=100088498143378"><i class="fa-brands fa-facebook fa-xl"></i></a>
+                <a class="mx-2" href="https://twitter.com/AsankaLigar1800"><i class="fa-brands fa-twitter fa-xl"></i></a>
                 <br><br>
                 <button class="btn btn-primary fw-bold" type="button" data-bs-toggle="modal" data-bs-target="#exampleModal"> Check My Specialization In Progress</button>
             </center>
