@@ -3,7 +3,7 @@
 export default {
     methods:{
         tolinkedin(){
-            location.replace("https://www.linkedin.com/in/faizal-nf-8448a0238");
+            location.replace("https://www.linkedin.com/in/faizal-nurul-firdaus-8448a0238/");
         }
     }
 }
