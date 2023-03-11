@@ -34,7 +34,7 @@
                             <h5 class="card-title">My Lapak App</h5>
                             <hr>
                             <p class="card-text">Static site website connected with admin dashboard API that all of it basically collection of stuff i want to pawned.</p>
-                            <a href="#" class="btn btn-primary">Visit Project</a>
+                            <a href="https://github.com/WdangTehSeeker3245/mylapak-fullstack" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
                 </div>
