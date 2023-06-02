@@ -31,13 +31,15 @@ export default {
     //       });
     // }
     async submitForm() {
+      var msg = "Message Already Sent"; 
+      alert(msg)
       axios.defaults.headers.post['Content-Type'] = 'application/json';
       axios.post('https://formsubmit.co/ajax/faizalnf3245@gmail.com', {
           name: this.formData.subject,
           message: this.formData.content
       })
-          .then(response => alert(response))
-          .catch(error => alert(error));
+          .then(response => console.log(response))
+          .catch(error => console.log(error));
           }
         },
     }

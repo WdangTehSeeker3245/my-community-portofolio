@@ -54,7 +54,7 @@ export default {
                         <div class="card-body text-light">
                             <h5 class="card-title">Webnote</h5>
                             <hr>
-                            <p class="card-text">Website note taking app for saving draft my story on localhost, Build Using Flask or PHP pure. now working on api to syncronize with local app.</p>
+                            <p class="card-text">Website note taking app for saving draft my story on localhost.</p>
                             <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#webnoteModal">Visit Project</a>
                         </div>
                     </div>

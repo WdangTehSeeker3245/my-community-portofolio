@@ -1,6 +1,7 @@
 <script>
 import Header from './components/Header.vue'
 import About from './components/About.vue'
+import TechStack from './components/TechStack.vue'
 import Project from './components/Project.vue'
 import Product from './components/Product.vue'
 import Contact from './components/Contact.vue'
@@ -8,7 +9,7 @@ import Preloader from './components/Preloader.vue';
 
 export default {
     components: {
-      Preloader,About,Header,Project,Product,Contact
+      Preloader,About,TechStack,Header,Project,Product,Contact
     },
     data() {
       return {
@@ -28,6 +29,7 @@ export default {
   <div v-if="!loading">
     <Header/>
     <About/>
+    <TechStack/>
     <Project/>
     <Product/>
     <Contact/>
