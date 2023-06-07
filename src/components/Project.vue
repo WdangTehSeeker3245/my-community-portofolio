@@ -121,11 +121,4 @@ export default {
             margin-left: 5px;
         }
     }
-    .card-row {
-        transition: transform 0.5s ease;
-    }
-
-    .card-row.animate {
-        transform: translateY(0);
-    }
 </style>

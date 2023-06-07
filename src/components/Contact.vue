@@ -86,23 +86,7 @@ export default {
 .responsive-contact {
     width:380px;
 }
-.responsive-yt {
-    width:480px;
-    height: 280px;
-}
-.responsive-lets {
-    width:480px;
-    border:4px solid red;
-}
 @media (max-width: 526px) {
-    .responsive-yt {
-        width: 100%;
-        height: 280px;
-    }
-    .responsive-lets {
-        width:100%;
-        border:4px solid red;
-    }
     .responsive-contact {
         width:100%;
     }
