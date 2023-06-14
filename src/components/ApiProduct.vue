@@ -1,10 +1,19 @@
+<script>
+export default {
+  mounted() {
+    this.$nextTick(() => {
+      AOS.refresh()
+    })
+  }
+}
+</script>
 <template>
     <div class="container-fluid pb-5">
         <br><br>
         <h4 class="text-uppercase fw-bold text-center">My Api Product</h4>
         <hr class="mx-auto" style="border:4px solid red" width="100px">
         
-        <div class="con">
+        <div class="con" data-aos="fade-up">
             <div class="con-api bg-warning">
                 <div class="row">
                     <div class="col-2">
@@ -51,7 +60,7 @@
                             <td>GET</td>
                             <td>
                                 api/notes<br>
-                                api/notes?search=[query]
+                                api/note?search=[query]
                             </td>
                         </tr>
                         <tr>
