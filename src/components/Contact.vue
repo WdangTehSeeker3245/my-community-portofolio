@@ -81,8 +81,8 @@ export default {
      </div>
     </div>
      
-</template>
-<style>
+</template >
+<style scoped>
 .responsive-contact {
     width:380px;
 }

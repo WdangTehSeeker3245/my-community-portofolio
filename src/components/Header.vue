@@ -47,7 +47,7 @@ export default {
     </div>   
 </template>
 
-<style>
+<style scoped>
 .photo-profile {
     width: 250px;
     height: 250px;

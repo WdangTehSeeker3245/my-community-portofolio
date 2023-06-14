@@ -82,7 +82,7 @@
     </div> 
 </template>
 
-<style>
+<style scoped>
 .con-api {
     padding:30px;
 }

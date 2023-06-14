@@ -72,7 +72,7 @@
     </div>
 </template>
 
-<style>
+<style scoped>
 .techstack-box {
     width: 80%;
     font-size: 20px;

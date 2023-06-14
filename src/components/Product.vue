@@ -59,7 +59,7 @@ export default {
     </div> 
 </template>
 
-<style>
+<style scoped>
     #rowproduct {
         margin-left: 50px;
     }
