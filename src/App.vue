@@ -4,12 +4,13 @@ import About from './components/About.vue'
 import TechStack from './components/TechStack.vue'
 import Project from './components/Project.vue'
 import Product from './components/Product.vue'
+import ApiProduct from './components/ApiProduct.vue'
 import Contact from './components/Contact.vue'
 import Preloader from './components/Preloader.vue';
 
 export default {
     components: {
-      Preloader,About,TechStack,Header,Project,Product,Contact
+      Preloader,About,TechStack,Header,Project,Product,ApiProduct,Contact
     },
     data() {
       return {
@@ -32,6 +33,7 @@ export default {
     <TechStack/>
     <Project/>
     <Product/>
+    <ApiProduct/>
     <Contact/>
   </div>
 </template>
