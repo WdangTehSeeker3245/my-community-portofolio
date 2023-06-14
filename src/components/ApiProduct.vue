@@ -41,7 +41,7 @@
             <div class="modal-body">
                 <table class="table table-bordered">
                     <thead>
-                        <tr class="bg-warning text-light"> 
+                        <tr style="color:white; background-color: orange;"> 
                             <th>Method</th>
                             <th>Endpoint</th>
                         </tr>
