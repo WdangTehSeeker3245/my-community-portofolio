@@ -40,8 +40,8 @@
             </div>
             <div class="modal-body">
                 <table class="table table-bordered">
-                    <thead class="bg-danger text-light">
-                        <tr>
+                    <thead>
+                        <tr class="bg-warning text-light"> 
                             <th>Method</th>
                             <th>Endpoint</th>
                         </tr>
@@ -49,7 +49,10 @@
                     <tbody>
                         <tr>
                             <td>GET</td>
-                            <td>api/notes</td>
+                            <td>
+                                api/notes<br>
+                                api/notes?search=[query]
+                            </td>
                         </tr>
                         <tr>
                             <td>GET</td>

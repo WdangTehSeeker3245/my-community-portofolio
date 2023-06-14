@@ -30,7 +30,7 @@ export default {
         <div class="container-fluid style-header">
             <center>
                 <img class="photo-profile" src="../assets/faizal-nurul-firdaus.jpg" alt="">
-                <h4 class="mt-5 fw-bold description">"Hi Im Programmer Who do Code As Hobby for Long Life Learner"</h4>
+                <h4 class="mt-5 fw-bold description">Hi Im Programmer Who do Code As Hobby for Long Life Learner</h4>
                 <br>
                 <a class="mx-2 " href="https://github.com/WdangTehSeeker3245"><i class="mycontact fa-brands fa-github fa-xl"></i></a>
                 <a class="mx-2 " href="https://www.linkedin.com/in/faizal-nurul-firdaus-8448a0238"><i class="mycontact fa-brands fa-linkedin fa-xl"></i></a>
