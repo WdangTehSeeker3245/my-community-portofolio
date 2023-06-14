@@ -33,7 +33,7 @@ export default {
             <div class="con-option text-light">
                 <center>
                     <a href="#" class="btn btn-primary me-2 mt-4" data-bs-toggle="modal" data-bs-target="#flasknoteapiModal" >Endpoint</a>
-                    <a href="#" class="btn btn-primary mt-4">Visit Api Product</a>
+                    <a href="https://github.com/WdangTehSeeker3245/flasknote-api" class="btn btn-primary mt-4">Visit Api Product</a>
                 </center>
             </div>
         </div>
@@ -60,7 +60,7 @@ export default {
                             <td>GET</td>
                             <td>
                                 api/notes<br>
-                                api/note?search=[query]
+                                api/search?title_note=[query]
                             </td>
                         </tr>
                         <tr>
@@ -84,7 +84,7 @@ export default {
             </div>
             <div class="modal-footer">
                 <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                <a href="#" class="btn btn-primary">Visit Api Product</a>
+                <a href="https://github.com/WdangTehSeeker3245/flasknote-api" class="btn btn-primary">Visit Api Product</a>
             </div>
             </div>
         </div>
