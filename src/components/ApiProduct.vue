@@ -40,10 +40,10 @@
             </div>
             <div class="modal-body">
                 <table class="table table-bordered">
-                    <thead>
-                        <tr style="color:white; background-color: orange;"> 
-                            <th>Method</th>
-                            <th>Endpoint</th>
+                    <thead class="table-head">
+                        <tr> 
+                            <th class="table-head">Method</th>
+                            <th class="table-head">Endpoint</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -106,6 +106,11 @@
 
 .tag {
     display: inline-block;
+}
+
+.table-head {
+    background-color: orange; /* Replace with your desired color */
+    color: white; /* Replace with your desired text color */
 }
 
 @media (max-width:526px){
