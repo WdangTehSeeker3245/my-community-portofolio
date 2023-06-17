@@ -41,9 +41,9 @@ export default {
                     <div class="card ms-2 bg-warning" style="width: 18rem;" data-aos="fade-up">
                         <img src="../assets/project/my-lapak.png" class="card-img-top" alt="...">
                         <div class="card-body text-light">
-                            <h5 class="card-title">My Lapak App</h5>
+                            <h5 class="card-title">My Lapak</h5>
                             <hr>
-                            <p class="card-text">Static site website connected with admin dashboard API that all of it basically collection of stuff i want to pawned.</p>
+                            <p class="card-text">Website to sell used item,service,and pawning</p>
                             <a href="https://github.com/WdangTehSeeker3245/mylapak-fullstack" class="btn btn-primary">Visit Project</a>
                         </div>
                     </div>
