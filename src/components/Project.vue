@@ -6,6 +6,16 @@ export default {
         })
     },
     methods: {
+        // MyLapak
+        mylapakAdmin(){
+            window.location.href = 'https://github.com/WdangTehSeeker3245/admin-mylapak'
+        },
+        mylapakBackend(){
+            window.location.href = 'https://github.com/WdangTehSeeker3245/backend-ci4-mylapak'
+        },
+        mylapakFrontend(){
+            window.location.href = 'https://github.com/WdangTehSeeker3245/frontend-mylapak'
+        },
         // Webnote
         webnoteFlask() {
             window.location.href = 'https://github.com/WdangTehSeeker3245/flask-note-webapp';
@@ -62,7 +72,7 @@ export default {
                         <p class="card-text">
                             Website to sell used item,service,and pawning
                         </p>
-                        <a href="https://github.com/WdangTehSeeker3245/mylapak-fullstack" class="btn btn-primary">Visit
+                        <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#mylapakModal">Visit
                             Project</a>
                     </div>
                 </div>
@@ -79,6 +89,44 @@ export default {
                         <a href="#" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#webnoteModal">Visit
                             Project</a>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Modal My Lapak-->
+    <div class="modal fade" id="mylapakModal" tabindex="-1" aria-labelledby="mylapakModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h1 class="modal-title fs-5" id="mylapakModalLabel">My Lapak</h1>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="project-detail-con pt-4 pb-2 mb-2" @click="mylapakAdmin">
+                        <center>
+                            <img class="project-img" src="../assets/sbadmin.png" />
+                            <img class="project-img" src="../assets/jquery.png" />
+                        </center>
+                        <p class="text-center text-white fw-bold">Admin Using SBadmin Ver 1 and Jquery</p>
+                    </div>
+                    <div class="project-detail-con pt-4 pb-2 mb-2" @click="mylapakBackend">
+                        <center>
+                            <img class="project-img" src="../assets/ci.png" />
+                        </center>
+                        <p class="text-center text-white fw-bold">Backend Api Using Codeigniter 4</p>
+                    </div>
+                    <div class="project-detail-con pt-4 pb-2 mb-2" @click="mylapakFrontend">
+                        <center>
+                            <img class="project-img" src="../assets/bootstrap.png" />
+                            <img class="project-img" src="../assets/jquery.png" />
+                        </center>
+                        <p class="text-center text-white fw-bold">Frontend Using Bootstrap and Jquery</p>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+                        Close
+                    </button>
                 </div>
             </div>
         </div>
